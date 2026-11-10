@@ -459,10 +459,10 @@ cannot defend one path, you are not ready to ask.
 
 **Bad** - a paragraph of sub-questions (the user cannot scan this):
 
-> Your link /c/… is expired (410), so I minted a fresh Default channel: …
-> Use this new channel for all approvals, save the 82-model listing to
-> docs/passy-models.md, and run one free-model test completion
-> (passy/DeepSeek-V4.1-Flash). Deny to stop so you can supply a fresh link instead.
+> Your link /c/… has expired, so I minted a fresh Default channel, moved the
+> three pending jobs onto it, rewrote the config, and ran the first job against
+> the new channel to prove it works. Deny to stop so you can supply a fresh link
+> yourself instead.
 
 **Good** - two lines, everything decided:
 
